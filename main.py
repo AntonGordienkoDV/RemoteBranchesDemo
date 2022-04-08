@@ -1,3 +1,3 @@
 print("It's test project")
-print('Hello, World!')
+print('Hello, my World!')
 
