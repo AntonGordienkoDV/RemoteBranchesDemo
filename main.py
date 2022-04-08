@@ -1,4 +1,4 @@
 print("It's test project")
 print('Hello, World!')
-print('How are you, friend?')
+print('How are you, Dude?')
 
